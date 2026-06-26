@@ -1,8 +1,5 @@
-# 💫 About Me:
-💼 I'm currently working on:<br>Building responsive Full-Stack web applications with the MERN Stack and improving my frontend UI/UX skills.<br><br>👥 I'm looking to collaborate on:<br>Open-source MERN Stack projects, web applications, and innovative startup ideas.<br><br>🤝 I'm looking for help with:<br>Advanced backend architecture, DevOps, and software engineering best practices.<br><br>🌱 I'm currently learning:<br>MERN Stack, Data Structures & Algorithms, Python, and AI development.<br><br>💬 Ask me about:<br>HTML, CSS, JavaScript, Bootstrap, Responsive Web Design, React, Node.js, Express.js, and MongoDB.<br><br>⚡ Fun fact:<br>I'm an English Department student at Al-Azhar University who is passionate about programming, and my goal is to become a professional Full-Stack Developer and build my own software company, "Al sabh ".
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yousuf6789ahmed-maker) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yousuf6789ahmed-maker) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousuf6789ahmed-maker) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yousuf6789ahmed-maker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:you3853ssef.ahmed@gemail.com) 
 
 # 💻 Tech Stack:
@@ -12,7 +9,7 @@
 ![](https://streak-stats.demolab.com/?user=yousuf6789ahmed-maker&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yousuf6789ahmed-maker&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yousuf6789ahmed-maker&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
